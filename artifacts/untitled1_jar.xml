@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="untitled1:jar">
+    <output-path>H:/服务端测试/Server1/plugins</output-path>
+    <root id="archive" name="untitled1.jar">
+      <element id="module-output" name="untitled1" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/Code/project/plugin.yml" />
+    </root>
+  </artifact>
+</component>
