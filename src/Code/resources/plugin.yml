@@ -1,0 +1,12 @@
+name: csgo
+main: Code.project.Main
+version: "1.5"
+author: sbstone & wocw
+commands:
+  csgo:
+    #描述
+    description: "csgo Commands"
+    #用法
+    usage: "/csgo"
+
+    aliases:

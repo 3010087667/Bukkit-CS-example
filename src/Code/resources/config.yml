@@ -1,0 +1,12 @@
+spawnpoint:
+  x: -990
+  y: 12
+  z: -15
+T_spawn:
+  x: -1031
+  y: 26
+  z: 120
+CT_spawn:
+  x: -1071
+  y: 13
+  z: 73
